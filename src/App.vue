@@ -1,3 +1,4 @@
+<!-- Blog app -->
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
